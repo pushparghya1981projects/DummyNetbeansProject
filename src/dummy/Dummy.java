@@ -16,5 +16,6 @@ public class Dummy {
      */
     public static void main(String[] args) {
         System.out.println("Welcome to Netbeans 8.2");
+        System.out.println("Changes push to Git....testing");
     }    
 }
